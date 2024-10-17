@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|f:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\c#\\nbtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47218AA-533A-43EE-BE13-58F727B62B60}|NBTest.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:22:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAGoBAAAAAAAAAAASwGoBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:22:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAlwI0BAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-17T11:22:24.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\\u8054\u60F3\u7535\u8111\\\u8BFE\u7A0B\\Nb\\20 \u5468\u590F\u5B87\\\u7CFB\u7EDF\u4EE3\u7801\\C#\\NBTest\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\all_code\\c#\\NBTest\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-17T11:22:24.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
